@@ -32,8 +32,8 @@ const CONTACT_ROWS = [
   {
     icon: Mail,
     label: "Email",
-    value: "walkmart@gmail.com",
-    href: "mailto:walkmart@gmail.com",
+    value: "info@walkmart.shop",
+    href: "mailto:info@walkmart.shop",
     sub: "Click to email · Reply within 24 hours",
   },
   {

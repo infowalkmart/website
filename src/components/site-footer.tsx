@@ -21,7 +21,7 @@ const COLUMNS: { title: string; links: string[] }[] = [
     links: [
       "WalkMart (OPC) Private Limited",
       "No. 11/1622,Kondotty Town,Kondotty P.O.,Malappuram – 673638, Kerala, India",
-      "walkmart@gmail.com",
+      "info@walkmart.shop",
       "+91 98952 53131",
     ],
   },
